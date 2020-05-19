@@ -1,9 +1,11 @@
 # Airflow Docker
 Airflow using Docker.
 
-This repository contains a **Dockerfile** of [apache-airflow](https://github.com/apache/incubator-airflow) using [Docker](https://www.docker.com/)'s.
+This repository contains a **Dockerfile** of [apache-airflow](https://github.com/apache/incubator-airflow) using [Docker](https://www.docker.com/).
 
 This build is based on [puckel's docker build](https://registry.hub.docker.com/u/puckel/docker-airflow/).
+
+Simply clone or copy this Repo, build and run to get started with Airflow.
 
 ## Information
 
