@@ -1,7 +1,9 @@
-# Colossus
+# Airflow Docker
 Airflow using Docker.
 
-This repository contains **Dockerfile** of [apache-airflow](https://github.com/apache/incubator-airflow) for [Docker](https://www.docker.com/)'s  using [puckel docker build](https://registry.hub.docker.com/u/puckel/docker-airflow/).
+This repository contains a **Dockerfile** of [apache-airflow](https://github.com/apache/incubator-airflow) using [Docker](https://www.docker.com/)'s.
+
+This build is based on [puckel's docker build](https://registry.hub.docker.com/u/puckel/docker-airflow/).
 
 ## Information
 
